@@ -1,6 +1,6 @@
-Hi, I'm Vaibhav
+# Hi, I'm Vaibhav
 
-🎓 B.Tech First Year - Artificial Intelligence and Machine Learning
+🎓 B.Tech First Year - AI & ML  
 🏫 VIT Bhopal  
 
-I am interested in learning programming and improving my digital skills
+I am interested in learning artificial intelligence, machine learning, and improving my programming skills.
